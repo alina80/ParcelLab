@@ -44,7 +44,7 @@ class DBmysql implements Database
             $options = array(PDO::ATTR_PERSISTENT => true, PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8");
             try {
                 $this->dbh = new PDO($dbid, DB_USERNAME, DB_PASSWORD, $options);
-                $this->dbh = new PDO($dbid, DB_USERNAME, DB_PASSWORD, $options);
+
             } catch (PDOException $e) {
                 $this->error = $e->getMessage();
             }

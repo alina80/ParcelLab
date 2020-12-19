@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a02b92c-6089-4fb6-bccd-ddcf7294a030" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/class/Address.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Address.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Parcel.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Parcel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/Size.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Size.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/database/DBmysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/database/DBmysql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/js/viewSize.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/viewSize.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1kPXsjL0f7jX4XiELMQV6dNQ69k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bookstore" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a02b92c-6089-4fb6-bccd-ddcf7294a030" name="Default Changelist" comment="" />
+      <created>1605603409492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605603409492</updated>
+      <workItem from="1605603410651" duration="666000" />
+      <workItem from="1606216435547" duration="1166000" />
+      <workItem from="1606220609298" duration="1550000" />
+      <workItem from="1606222425319" duration="1792000" />
+      <workItem from="1606224374571" duration="1653000" />
+      <workItem from="1606226184992" duration="1363000" />
+      <workItem from="1606230587495" duration="1431000" />
+      <workItem from="1606232404621" duration="1792000" />
+      <workItem from="1606234256933" duration="765000" />
+      <workItem from="1606235324833" duration="1784000" />
+      <workItem from="1606237130967" duration="825000" />
+      <workItem from="1606279545713" duration="1446000" />
+      <workItem from="1606284125315" duration="1786000" />
+      <workItem from="1606286215342" duration="1026000" />
+      <workItem from="1606291116631" duration="780000" />
+      <workItem from="1608114740243" duration="3642000" />
+      <workItem from="1608348735918" duration="1232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

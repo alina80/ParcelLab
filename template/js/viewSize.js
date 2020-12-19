@@ -13,7 +13,7 @@ $(document).ready(function() {
         }).done(function (response) {
             insertContentSize(response);
         }).fail(function (response) {
-            alert( "Error occured");
+            alert( "Error occured! Could not load size list!");
         });
     }
     loadSizeView();
@@ -28,8 +28,8 @@ $(document).ready(function() {
                 tdSize = $('<td>', {class: "size"}),
                 tdPrice = $('<td>', {class: "price"}),
                 tdAction = $('<td>', {class: "action"}),
-                    actionDelete = $('<button>', {class: "delete-btn"}).text('Usuń'),
-                actionEdit = $('<button>', {class: "edit-btn"}).text('Edytuj'),
+                    actionDelete = $('<button>', {class: "delete-btn"}).text('Delete'),
+                actionEdit = $('<button>', {class: "edit-btn"}).text('Edit'),
                 actionForm = $('<form>', {class: "edit-form hide"}),
                 inputSize = $('<input>', {name: "size", id: "size"}),
                 inputPrice = $('<input>', {name: "price", id: "price"}),
@@ -82,7 +82,7 @@ $(document).ready(function() {
                     alert('Size updated');
                     location.reload();
                 }).fail(function () {
-                    alert( "Error occured");
+                    alert( "Error occured! Could not edit size!");
                 });
             });
         });
